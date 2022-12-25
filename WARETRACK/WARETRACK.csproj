@@ -316,5 +316,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\ana_sayfa.PNG" />
+    <Content Include="images\kullanıcı_girişi.PNG" />
+    <Content Include="images\yenihesap_olusturma.PNG" />
+    <Content Include="images\ürünler.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
